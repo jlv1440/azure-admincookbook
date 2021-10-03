@@ -1,0 +1,1 @@
+New-AzureADUser -AccountEnabled $true -PasswordProfile $pwprofile -DisplayName "" -UserPrincipalName "" -MailNickName "" 
